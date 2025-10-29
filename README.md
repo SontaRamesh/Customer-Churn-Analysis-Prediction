@@ -46,7 +46,7 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 - Internet Type  
 - Payment Method  
 
-📊 *Refer to `output.png` for the feature importance chart.*
+[outputpng](Machine_Learning_Model/output.png)
 
 ---
 
