@@ -58,7 +58,7 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 - Churn Rate: **27.0%**  
 - Insights by gender, age group, state, contract, payment method, and internet type  
 
-![Summary Dashboard](1_churn_analysis_summary.png)
+![Summary Dashboard](PowerBI_Dashboard/1_churn_analysis_summary.png)
 
 ---
 
