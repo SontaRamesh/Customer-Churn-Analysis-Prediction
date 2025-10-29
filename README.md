@@ -85,7 +85,7 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 ---
 
 ## 🗂️ Dataset
-**Source:** [Kaggle - Telecom Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
+**Source:** [Kaggle - Telecom Customer Churn Dataset](Data/Customer_Data.csv)
 
 ---
 
