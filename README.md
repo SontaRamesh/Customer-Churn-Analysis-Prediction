@@ -53,7 +53,8 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 ## 📈 Power BI Dashboards
 
 ### 🧾 **Churn Analysis – Summary Page**
-- Total Customers: 6,418  
+- Total Customers: 6,418
+- New Joiners: 411  
 - Total Churn: 1,732  
 - Churn Rate: **27.0%**  
 - Insights by gender, age group, state, contract, payment method, and internet type  
@@ -67,7 +68,7 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 - Breakdown by age, tenure, payment method, contract type, and state  
 - Customer-level details (monthly charge, total revenue, referrals, etc.)  
 
-![Prediction Dashboard](2_churn_analysis_prediction.png)
+![Prediction Dashboard](PowerBI_Dashboard/2_churn_analysis_prediction.png)
 
 ---
 
