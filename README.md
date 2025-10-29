@@ -99,8 +99,8 @@ It identifies **key churn drivers**, visualizes **customer behavior**, and predi
 ---
 
 ## 👨‍💻 Author
-**Ramesh Sonta**  
-🎓 B.Tech (Final Year), IARE College  
+**Sonta Ramesh**  
+🎓 B.Tech Graduate, IARE College  
 💼 Data Analyst & Power BI Enthusiast  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sonta-ramesh/)  
 📂 [GitHub Projects](https://github.com/SontaRamesh)
